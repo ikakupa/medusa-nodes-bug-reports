@@ -11,7 +11,7 @@ permissions: 'People with read access can create an issue in a repository where 
 
 
 - Step 1: Click on the **"Issues"** button.
-![chrome_DT5wweCAME](https://user-images.githubusercontent.com/64023824/215857122-563eb9f1-ebe8-4768-9d85-5e4fe0ff260b.png)
+![image](https://user-images.githubusercontent.com/64023824/215862189-99766a15-97e0-4d39-97a6-330f0fee039d.png)
 
 - Step 2: Click in **"New issue"**
 ![image](https://user-images.githubusercontent.com/64023824/215858704-93150a13-e1c0-4ef0-add8-63bd904da3e0.png)
