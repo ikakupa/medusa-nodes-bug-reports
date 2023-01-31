@@ -12,7 +12,7 @@ permissions: 'People with read access can create an issue in a repository where 
 redirect_from:
 
 - Step 1:
-![image](https://user-images.githubusercontent.com/64023824/215856592-5fc27b31-bb39-47e6-bddd-afadb8852864.png)
+![chrome_DT5wweCAME](https://user-images.githubusercontent.com/64023824/215857122-563eb9f1-ebe8-4768-9d85-5e4fe0ff260b.png)
 
 
 versions:
