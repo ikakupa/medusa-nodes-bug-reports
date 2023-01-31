@@ -1,13 +1,12 @@
 # Medusa Nodes Bug Reports
-This is the placeholder repository which is intended to be used as a platform for bug reports and feature requests for the Medusa Nodes hair addon.
-
+This is the placeholder repository which is intended to be used as a platform for bug reports and feature requests for the **Medusa Nodes** hair addon.
 
 Here you are always welcome to submit any kind of issues in regard to Medusa Nodes addon:
 
 ---
 ## Creating an issue
 
-intro: 'You can create submit an issue quickly following the steps down below.'
+intro: 'You can submit an issue quickly following the steps down below.'
 permissions: 'People with read access can create an issue in a repository where issues are enabled.
 
 
