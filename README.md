@@ -14,6 +14,10 @@ redirect_from:
 - Step 1:
 ![chrome_DT5wweCAME](https://user-images.githubusercontent.com/64023824/215857122-563eb9f1-ebe8-4768-9d85-5e4fe0ff260b.png)
 
+- Step 2:
+![image](https://user-images.githubusercontent.com/64023824/215858704-93150a13-e1c0-4ef0-add8-63bd904da3e0.png)
+
+
 
 versions:
   fpt: '*'
