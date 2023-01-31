@@ -7,9 +7,9 @@ Here you are always welcome to submit any kind of issues in regard to Medusa Nod
 ---
 ## Creating an issue
 
-intro: 'Issues can be created in a variety of ways, so you can choose the most convenient method for your workflow.'
-permissions: 'People with read access can create an issue in a repository where issues are enabled. {% data reusables.enterprise-accounts.emu-permission-repo %}'
-redirect_from:
+intro: 'You can create submit an issue quickly following the steps down below.'
+permissions: 'People with read access can create an issue in a repository where issues are enabled.
+
 
 - Step 1: Click on the **"Issues"** button.
 ![chrome_DT5wweCAME](https://user-images.githubusercontent.com/64023824/215857122-563eb9f1-ebe8-4768-9d85-5e4fe0ff260b.png)
@@ -27,23 +27,9 @@ Don't forget to click on **"Submit new issue"**.
 
 
 
-
-
-
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
-  ghec: '*'
-topics:
-  - Pull requests
-  - Issues
-  - Project management
-shortTitle: Create an issue
-type: how_to
 ---
 
-Issues can be used to keep track of bugs, enhancements, or other requests. For more information, see "[About issues](/issues/tracking-your-work-with-issues/about-issues)."
+Issues can be used to keep track of bugs, enhancements, or other requests.
 
-{% data reusables.repositories.administrators-can-disable-issues %}
+
 
