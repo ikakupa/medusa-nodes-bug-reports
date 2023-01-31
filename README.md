@@ -11,6 +11,10 @@ intro: 'Issues can be created in a variety of ways, so you can choose the most c
 permissions: 'People with read access can create an issue in a repository where issues are enabled. {% data reusables.enterprise-accounts.emu-permission-repo %}'
 redirect_from:
 
+- Step 1:
+![image](https://user-images.githubusercontent.com/64023824/215856592-5fc27b31-bb39-47e6-bddd-afadb8852864.png)
+
+
 versions:
   fpt: '*'
   ghes: '*'
