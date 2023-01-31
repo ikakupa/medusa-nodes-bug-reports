@@ -17,6 +17,10 @@ redirect_from:
 - Step 2:
 ![image](https://user-images.githubusercontent.com/64023824/215858704-93150a13-e1c0-4ef0-add8-63bd904da3e0.png)
 
+- Step 3:
+![image](https://user-images.githubusercontent.com/64023824/215859781-8a56ee86-1d12-4243-ac74-2734ca63efd8.png)
+
+
 
 
 versions:
