@@ -6,8 +6,7 @@ Here you are always welcome to submit any kind of issues in regard to Medusa Nod
 ---
 ## Creating an issue
 
-intro: 'You can submit an issue quickly following the steps down below.'
-permissions: 'People with read access can create an issue in a repository where issues are enabled.
+You can submit an issue quickly following the steps down below.
 
 
 - Step 1: Click on the **"Issues"** button.
